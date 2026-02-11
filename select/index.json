@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "難破船",
+  "base_artist": "中森明菜",
+  "createdAt": "2026-02-11T14:32:45.682219Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "難破船",
+      "artist": "濱野美奈子",
+      "has_synced": false,
+      "path": "select/01_難破船_濱野美奈子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "難破船 - Nanpasen",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/02_難破船_-_Nanpasen_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "難破船",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/03_難破船_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "難破船 <30th anniversary mix>",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/04_難破船__30th_anniversary_mix_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "難破船",
+      "artist": "Ms.OOJA",
+      "has_synced": true,
+      "path": "select/05_難破船_Ms.OOJA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "難破船 [Live] [2021 Remaster]",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/06_難破船_[Live]_[2021_Remaster]_中森明菜.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "難破船",
+      "artist": "中森 明菜",
+      "has_synced": false,
+      "path": "select/pl_01_難破船_中森_明菜.txt"
+    }
+  ]
+}
